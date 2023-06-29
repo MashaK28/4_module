@@ -1,0 +1,33 @@
+h1 {
+    background: rgb(188, 14, 188);
+}
+
+.paragraph-1 {
+    background: rgb(92, 92, 185);
+    font-size: 32pt;
+    color:brown;
+}
+
+.paragraph-2 {
+    border: 10px solid plum;
+    font-size: 24pt;
+    border-radius: 7px; 
+    margin-bottom: 60px; 
+    padding-left: 20px;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22px;
+    color: sandybrown;
+    font-family: Courier New;
+}
+
+.paragraph-4 {
+    font-size:24px;
+    font-style: italic;
+    text-align:center;
+    text-shadow: 5px 4px 3px #0ba810;
+
+
+}
